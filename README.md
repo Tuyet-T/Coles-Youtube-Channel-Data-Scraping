@@ -15,3 +15,5 @@ Some findings are :
 4) There are considerable outliers in the distribution of likes, views, comments and length.
 
 5) Through times, the video's length seems increase significantly.
+
+6) There are 260 videos that have comments and 146 videos that has the comment section blocked out of 1082 total videos.
