@@ -17,3 +17,5 @@ Some findings are :
 5) Through times, the video's length seems increase significantly.
 
 6) There are 260 videos that have comments and 146 videos that has the comment section blocked out of 1082 total videos.
+
+Limitation of this method: it's pretty slow and it requires a careful monitor due to the sudden interuption and time constraint for successfully loading in chrome browser. 
